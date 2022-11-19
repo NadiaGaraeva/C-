@@ -1,0 +1,15 @@
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.AssemblyInfo.cs
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\bin\Debug\net7.0\Houmwork4.exe
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\bin\Debug\net7.0\Houmwork4.deps.json
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\bin\Debug\net7.0\Houmwork4.runtimeconfig.json
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\bin\Debug\net7.0\Houmwork4.dll
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\bin\Debug\net7.0\Houmwork4.pdb
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.dll
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\refint\Houmwork4.dll
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.pdb
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\Houmwork4.genruntimeconfig.cache
+C:\Users\Tom\Desktop\C# 1\seminar_01\Houmwork4\obj\Debug\net7.0\ref\Houmwork4.dll
